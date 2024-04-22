@@ -6,14 +6,14 @@ import fs from 'fs'
 
 //OwnerShip
 global.owner = [
-  [process.env.OWNER_NUMBER || '919637987574', process.env.OWNER_NAME || 'Developer Shizo 🤖', true],
-  ['919637987574', 'Shizo Techie ❤️✨', true]
+  [process.env.OWNER_NUMBER || '254112842772', process.env.OWNER_NAME || 'Gabby botz 🤖', true],
+  ['254112842772', 'Gabby✨', true]
 ]
 global.mods = []
 global.prems = []
 
-global.author = process.env.OWNER_NAME || 'Shizo The Techie'
-global.botname = process.env.BOT_NAME || 'OREO-BOT'
+global.author = process.env.OWNER_NAME || 'Gabby'
+global.botname = process.env.BOT_NAME || 'GABBY-BOT'
  
  
  //Api's
@@ -26,11 +26,11 @@ global.APIKeys = {
 global.shizokeys = 'shizo'
 
 //Sticker Watermarks
-global.stkpack = process.env.BOT_NAME || 'OREO-BOT 🥵'
-global.stkowner = process.env.OWNER_NAME || '© Shizo The Techie'
+global.stkpack = process.env.BOT_NAME || 'Gabby 🥵'
+global.stkowner = process.env.OWNER_NAME || '© Gabby'
 
 //Watermark
-global.maker = process.env.MAKER || 'Made with ❤️ by OREO-BOT'
+global.maker = process.env.MAKER || 'Made with Gabby'
 
 //global emojis
 global.wait = '*⌛ _Charging..._*\n*▰▰▰▱▱▱▱▱*'
@@ -41,7 +41,7 @@ global.error = '❌'
 global.xmoji = '🔥' 
 
 //management
-global.bug = '*!! Sorry 💢 !!*\nSomething went wrong 🌋'
+global.bug = '*!! Sorry 🥲 !!*\nSomething went wrong 🌋'
 global.stop = '*!! 🎭 Unfortunately 💔 !!*\nBot system is not Responding 🙃'
 
 //TimeLines
